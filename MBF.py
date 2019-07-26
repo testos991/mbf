@@ -309,7 +309,7 @@ def idteman():
 	else:
 		return menu()
 def menu():
-	cetak("\n           !h.-.-..\n          /+/++//\n         /+/++//\n  !k*   !k* !h/+/++//\n   \ /  |/__//\n !h{!mX!h}v{!mX!h}!0!b|!cMBF!b|==========.\n   !h(!m'!h)!0  !h/'|'\           !b\\\n       !h/  \  \          !b'\n       !h\_  \_ \_   !k___!mMBF !c2.0!k___\n\n !m* !bMULTI BRUTEFORCE FACEBOOK\n !m* !cMR.D / Testos991\n !m* !phttps://github.com/testos991\n !m* !pHappy Fun !!!\n !m* !pFikirkan baik-baik sebelum memakai tool in, karena sekali pakai akun and akan terkena checkpoint\n!k.======================.\n|!h  AMBIL !mID!h DARI.....  !k|\n'======================'\n!k#!p1 !hDAFTAR TEMAN\n!k#!p2 !hANGGOTA GROUP\n!k#!p3 !mKELUAR...")
+	cetak("\n           !h.-.-..\n          /+/++//\n         /+/++//\n  !k*   !k* !h/+/++//\n   \ /  |/__//\n !h{!mX!h}v{!mX!h}!0!b|!cMBF!b|==========.\n   !h(!m'!h)!0  !h/'|'\           !b\\\n       !h/  \  \          !b'\n       !h\_  \_ \_   !k___!mMBF !c2.0!k___\n\n !m* !bMULTI BRUTEFORCE FACEBOOK\n !m* !cMR.D / Testos991\n !m* !phttps://github.com/testos991\n !m* !pHappy Fun !!!\n !m* !pFikirkan baik-baik sebelum memakai tool ini,\n !m* !pKarena sekalihh pakai akun anda akan\n !m* !pterkena checkpoint\n!k.======================.\n|!h  AMBIL !mID!h DARI.....  !k|\n'======================'\n!k#!p1 !hDAFTAR TEMAN\n!k#!p2 !hANGGOTA GROUP\n!k#!p3 !mKELUAR...")
 	i = inputM('[?] PILIH',[1,2,3])
 	if i == 2:
 		lanjutG()
